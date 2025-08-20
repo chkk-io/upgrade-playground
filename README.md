@@ -31,7 +31,7 @@ You must manually:
 - **Minimal, relevant context**: fewer review cycles with rationale comments in PRs
 
 ### Start here
-- Cursor + Chkk quickstart
+- [Cursor + Chkk Quickstart](https://docs.chkk.io/overview/quickstart-upgrade-context-mcp)
 
 ### Repo layout
 - Top‑level IaC type directories:
