@@ -1,3 +1,0 @@
-# ArgoCD
-
-To be added
